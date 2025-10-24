@@ -1,4 +1,4 @@
-# Merkle Data Engineering Case Study
+# Data Engineering Case Study
 
 This repository contains the end-to-end data engineering pipeline for the Merkle Case Study. The project involves ingesting raw CSV data from a public S3 bucket, building a 3-layer (Bronze-Silver-Gold) data lakehouse in Databricks, and creating a final aggregated datamart.
 
